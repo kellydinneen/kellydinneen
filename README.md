@@ -23,19 +23,7 @@ I'm a javascript developer.
 - Thunk and Saga patterns for Redux
 
 #### Before I started coding
-I studied Philosophy, Neuroscience, and Mathematics at the University of Colorado Boulder, focusing on questions about how people learn and make decisions. I hope to apply my software development skills to some of these questions, to build tools that encourage us to be more mindful consumers of information and nurture our epistemic agency.
-
-I've also been a
-⛷ ski instructor
-🚑 wilderness EMT
-🕵️‍research assistant
-🏔 outdoor educator
-👩‍curriculum designer
-🗣 debate coach
-🤔 managment consulting fellow
-🍎 philosophy teacher
-✏️ writing tutor
-
+I studied Philosophy, Neuroscience, and Mathematics at the University of Colorado Boulder, focusing on questions about how people learn and make decisions. I hope to apply my software development skills to some of these questions, to build tools that nurture our epistemic agency.
 
 <!--
 **kellydinneen/kellydinneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
