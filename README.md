@@ -35,7 +35,7 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 
 *meticulously test an app with unit, integration, and end-to-end testing*
 
-<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> CYPRESS
+<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Cypress" src="Screen Shot 2021-03-30 at 10.47.49 AM.png" height="27"/>
 
 *construct a backend with REST APIs*
 
