@@ -41,7 +41,9 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-*visualize data with D3.js, Charts.js, and Leaflet.js*
+*design and build imaginative data visualizations*
+
+<img alt="D3" src="Screen Shot 2021-03-30 at 10.53.46 AM.png" height="27"/> <img alt="Leaflet" src="Screen Shot 2021-03-30 at 10.55.56 AM.png" height="27"/>
 
 *Manage a project and team using issues, pull requests, project boards, and a merge or rebase workflow*
 
@@ -57,7 +59,8 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 - <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 - <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 - <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-- creative coding with P5.js and Paper.js
+- <img alt="P5.js" src="Screen Shot 2021-03-30 at 10.52.31 AM.png" height="27"/>
+- <img alt="Paper.js" src="Screen Shot 2021-03-30 at 10.55.13 AM.png" height="27"/>
 - Thunk and Saga patterns for Redux
 
 <!--
