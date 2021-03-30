@@ -5,7 +5,10 @@
 
 Reach out if you could use a competent developer with a creative bent -- I am especially excited about ethically or aesthetically visionary projects that are reimagining the way we learn and interact online.
 
-### ★★ Featured Project: [*GitHub Garden*](https://github.com/kellydinneen/github-garden) ★★  
+_________________
+
+
+### Featured Project: [*GitHub Garden*](https://github.com/kellydinneen/github-garden)  
 This project won first place at Turing's March 2021 Demo Competition. 
 
 Visit the site, which is deployed on Firebase, [here](https://github-garden.web.app/)
@@ -17,6 +20,9 @@ OR
 Watch [my partner](https://github.com/cjspohn) and I talk about our process:
 
 [![GitHub Garden Demo](http://img.youtube.com/vi/EOrDy2ucsjQ/0.jpg)](https://youtu.be/EOrDy2ucsjQ "GitHub Garden Demo")
+
+_________________
+
 
 ### ⬅️ Before I started coding
 I studied Philosophy, Neuroscience, and Mathematics at the University of Colorado Boulder, focusing on questions about how people learn and make decisions. I hope to apply my software development skills to some of these questions, building tools that nurture our epistemic agency.
