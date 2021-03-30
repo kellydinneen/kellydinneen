@@ -5,6 +5,19 @@
 
 Reach out if you could use a competent developer with a creative bent -- I am especially excited about ethically or aesthetically visionary projects that are reimagining the way we learn and interact online.
 
+### ★★ Featured Project: [*GitHub Garden*](https://github.com/kellydinneen/github-garden) ★★  
+This project won first place at Turing's March 2021 Demo Competition. 
+
+Visit the site, which is deployed on Firebase, [here](https://github-garden.web.app/)
+<br>You can download your own garden, just like this one ⬇️⬇️⬇️<br>
+![my GitHub Garden](garden_kellydinneen_1617114640258.png)
+
+OR
+
+Watch [my partner](https://github.com/cjspohn) and I talk about our process:
+
+[![GitHub Garden Demo](http://img.youtube.com/vi/EOrDy2ucsjQ/0.jpg)](https://youtu.be/EOrDy2ucsjQ "GitHub Garden Demo")
+
 ### ⬅️ Before I started coding
 I studied Philosophy, Neuroscience, and Mathematics at the University of Colorado Boulder, focusing on questions about how people learn and make decisions. I hope to apply my software development skills to some of these questions, building tools that nurture our epistemic agency.
 
@@ -40,8 +53,6 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 - <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 - creative coding with P5.js and Paper.js
 - Thunk and Saga patterns for Redux
-
-![my GitHub Garden](garden_kellydinneen_1617114640258.png)
 
 <!--
 **kellydinneen/kellydinneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
