@@ -3,9 +3,7 @@
 I'm a javascript developer.
 
 #### 🧠 Right now, I **can** 
-- create interactive web apps with React and React Router
-
-  ---> using all functional React components (React Hooks)
+- create interactive web apps with React and React Router (using React Hooks)
 - manage state with Redux
 - build an end-to-end testing suite with Cypress
 - unit test with Mocha or Jest
