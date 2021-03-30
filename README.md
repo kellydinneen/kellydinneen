@@ -1,10 +1,17 @@
-### My name is Kelly Dinneen 👋
+#### Hello 👋
+### My name is Kelly Dinneen. I am a javascript developer and a student in the Frontend program at the [Turing School of Software & Design](https://frontend.turing.io/).
 
-I'm a javascript developer.
+*I have a knack for communicating complex ideas, a love of learning, and an ever-growing curiosity about human-technology relationships.*
 
-#### 🧠 Right now, I **can** 
+Reach out if you could use a competent developer with a creative bent -- I am especially excited about ethically or aesthetically visionary projects that are reimagining the way we learn and interact online.
+
+#### Before I started coding
+I studied Philosophy, Neuroscience, and Mathematics at the University of Colorado Boulder, focusing on questions about how people learn and make decisions. I hope to apply my software development skills to some of these questions, building tools that nurture our epistemic agency.
+
+#### 🧠 Right now, I **CAN** 
 - create interactive web apps with React and React Router (using React Hooks)
 - manage state with Redux
+- write clean ES6 Javascript (make it asynchronous!)
 - build an end-to-end testing suite with Cypress
 - unit test with Mocha or Jest
 - construct a custom REST API with Express.js and Node.js
@@ -13,7 +20,7 @@ I'm a javascript developer.
 - Manage a team's workflow with GitHub issues, projects, and pull requests
 - Use a merge or rebase workflow
 
-#### 🌱 I’m **learning** 
+#### 🌱 I’m **LEARNING** 
 - Typescript
 - GraphQL
 - database configuration with SQL
@@ -21,9 +28,6 @@ I'm a javascript developer.
 - cloud hosting with Digital Ocean
 - containerization with Docker
 - Thunk and Saga patterns for Redux
-
-#### Before I started coding
-I studied Philosophy, Neuroscience, and Mathematics at the University of Colorado Boulder, focusing on questions about how people learn and make decisions. I hope to apply my software development skills to some of these questions, to build tools that nurture our epistemic agency.
 
 <!--
 **kellydinneen/kellydinneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
