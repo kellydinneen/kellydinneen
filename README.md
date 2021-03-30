@@ -41,6 +41,8 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 - creative coding with P5.js and Paper.js
 - Thunk and Saga patterns for Redux
 
+![my GitHub Garden](garden_kellydinneen_1617114640258.png)
+
 <!--
 **kellydinneen/kellydinneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
