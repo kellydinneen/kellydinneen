@@ -4,8 +4,6 @@
 *I have a knack for communicating complex ideas, a love of learning, and an ever-growing curiosity about human-technology relationships.*
 
 Reach out if you could use a competent developer with a creative bent -- I am especially excited about ethically or aesthetically visionary projects that are reimagining the way we learn and interact online.
-
-Checkout my reflections in my blog: https://jelly-donut.medium.com/
 _________________
 
 
