@@ -1,5 +1,5 @@
 ## 👋
-## My name is Kelly Dinneen. I am a javascript developer and a student at the [Turing School of Software & Design](https://frontend.turing.io/).
+## My name is Kelly Dinneen. I am a software developer and a student at the [Turing School of Software & Design](https://frontend.turing.io/).
 
 *I have a knack for communicating complex ideas, a love of learning, and an ever-growing curiosity about human-technology relationships.*
 
