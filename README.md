@@ -1,5 +1,5 @@
 ## 👋
-## My name is Kelly Dinneen. I am a javascript developer and a student in the Frontend program at the [Turing School of Software & Design](https://frontend.turing.io/).
+## My name is Kelly Dinneen. I am a javascript developer and a student at the [Turing School of Software & Design](https://frontend.turing.io/).
 
 *I have a knack for communicating complex ideas, a love of learning, and an ever-growing curiosity about human-technology relationships.*
 
@@ -28,10 +28,6 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 
 ### 💪 Right now, I **CAN** 
 
-*create a polished, interactive frontend*
-
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-
 *meticulously test an app with unit, integration, and end-to-end testing*
 
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Cypress" src="Screen Shot 2021-03-30 at 10.47.49 AM.png" height="27"/>
@@ -43,6 +39,10 @@ I studied Philosophy, Neuroscience, and Mathematics at the University of Colorad
 *design and build imaginative data visualizations*
 
 <img alt="D3" src="Screen Shot 2021-03-30 at 10.53.46 AM.png" height="27"/> <img alt="Leaflet" src="Screen Shot 2021-03-30 at 10.55.56 AM.png" height="27"/>
+
+*create a polished, interactive frontend*
+
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 *Manage a project and team using issues, pull requests, project boards, and a merge or rebase workflow*
 
