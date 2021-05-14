@@ -24,7 +24,7 @@ _________________
 
 
 ### ⬅️ Before I started coding
-I studied how people learn and make decisions at the University of Colorado Boulder. I hope to apply my software development skills to questions in this area, building tools that nurture our epistemic agency.
+I studied how people learn and make decisions. I hope to apply my software development skills to questions in this area, building tools that nurture our epistemic agency.
 
 ### 💪 Right now, I **CAN** 
 
