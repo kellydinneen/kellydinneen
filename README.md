@@ -1,5 +1,5 @@
 ## 👋
-## My name is Kelly Dinneen. I am a software developer and a student at the [Turing School of Software & Design](https://frontend.turing.io/).
+## My name is Kelly Dinneen. I am a frontend engineer and data visualization designer.
 
 *I have a knack for communicating complex ideas, a love of learning, and an ever-growing curiosity about human-technology relationships.*
 
@@ -7,8 +7,8 @@ Reach out if you could use a competent developer with a creative bent -- I am es
 _________________
 
 
-### Featured Project: [*GitHub Garden*](https://github.com/kellydinneen/github-garden)  
-This project won first place at Turing's March 2021 Demo Competition. 
+### Featured Personal Project: [*GitHub Garden*](https://github.com/kellydinneen/github-garden)  
+This project won first place at the Turing Scool of Software and Design's March 2021 Demo Competition. 
 
 Visit the site, which is deployed on Firebase, [here](https://github-garden.web.app/)
 <br>You can download your own garden, just like this one ⬇️⬇️⬇️<br>
@@ -24,7 +24,7 @@ _________________
 
 
 ### ⬅️ Before I started coding
-I studied how people learn and make decisions. I hope to apply my software development skills to questions in this area, building tools that nurture our epistemic agency.
+I studied how people learn and make decisions. I hope to apply my engineering and design skills to questions in this area, building tools that nurture our epistemic agency.
 
 ### 💪 Right now, I **CAN** 
 
