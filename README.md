@@ -1,9 +1,7 @@
 ## 👋
-## My name is Kelly Dinneen. I am a frontend engineer and data visualization designer.
+## My name is Kelly Dinneen. I am a frontend developer and consultant specializing in data experience design.
 
-*I have a knack for communicating complex ideas, a love of learning, and an ever-growing curiosity about human-technology relationships.*
-
-Reach out if you could use a competent developer with a creative bent -- I am especially excited about ethically or aesthetically visionary projects that are reimagining the way we learn and interact online.
+Reach out if you could use a developer with a creative bent -- I am especially excited about ethically or aesthetically visionary projects that are reimagining the way we learn and interact online.
 _________________
 
 
@@ -61,7 +59,6 @@ I studied how people learn and make decisions. I hope to apply my engineering an
 - <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 - <img alt="P5.js" src="Screen Shot 2021-03-30 at 10.52.31 AM.png" height="27"/>
 - <img alt="Paper.js" src="Screen Shot 2021-03-30 at 10.55.13 AM.png" height="27"/>
-- Thunk and Saga patterns for Redux
 
 <!--
 **kellydinneen/kellydinneen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
